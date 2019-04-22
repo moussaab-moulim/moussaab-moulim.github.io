@@ -19,11 +19,10 @@ const Home = (props) => (
         <div id="home-content">
             <div id="home-content-inner" className="text-center">
                 <div id="home-heading">
-                    <h1><span id="home-heading-1">Moussaab MOULIM</span><br/><span id="home-heading-2">Software <span>ENGINEER</span></span></h1>
+                    <h1><span id="home-heading-1">Moussaab MOULIM</span><br /><span id="home-heading-2">Software <span>ENGINEER</span></span></h1>
                 </div>
                 <div id="home-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit consectetur adipisicing elit. Eos at
-                quam.</p>
+                    <p>full stack web and mobile Software engineer and developer</p>
                 </div>
                 <Button buttonClass="btn-home" />
             </div>
